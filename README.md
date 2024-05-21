@@ -10,11 +10,11 @@ These have been historically considered to be among the most coveted professions
  <br />
 Topics:<br />
  <br />
-1. Data Analysis using Pandas
-2. Data Visualization and Technical Analysis
-3. Fundamental analysis using Regression
-4. Trade Call Prediction using Classification
-5. Modern Portfolio Theory
+1. Data Analysis using Pandas <br />
+2. Data Visualization and Technical Analysis <br />
+3. Fundamental analysis using Regression <br />
+4. Trade Call Prediction using Classification <br />
+5. Modern Portfolio Theory <br />
 6. Clustering for Diversification analysis<br />
 
 
