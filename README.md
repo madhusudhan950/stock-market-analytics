@@ -11,5 +11,7 @@ Topics:<br />
 4. Trade Call Prediction using Classification
 5. Modern Portfolio Theory
 6. Clustering for Diversification analysis<br />
-Anupoju madhusudhan <br />
+
+
+  <br />
 ame=python3
